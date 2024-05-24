@@ -1,0 +1,32 @@
+Cédula de identidad: 1150261665
+Apellidos Completos: Condoy Vargas
+Nombres Completos: Alisson Dalinda
+Fecha de nacimiento: 07/05/2004
+Estatura: 1.57
+Peso: 49.0
+Alergias: Ninguna
+
+Cédula de identidad: 1150707717
+Apellidos Completos: Flores Hurtado
+Nombres Completos: David Alejandro
+Fecha de nacimiento: 24/04/2002
+Estatura: 1.71
+Peso: 50.0
+Alergias: Ninguna
+
+Cédula de identidad: 1150027603
+Apellidos Completos: Robalino Robalino
+Nombres Completos: Lady Jazmin
+Fecha de nacimiento: 26/11/2004
+Estatura: 1.59
+Peso: 50.0
+Alergias: Ninguno
+
+Cédula de identidad: 1103323711
+Apellidos Completos: Condoy Velez
+Nombres Completos: Jose Angel
+Fecha de nacimiento: 14/09/1974
+Estatura: 1.74
+Peso: 68.0
+Alergias: Ninguno
+
